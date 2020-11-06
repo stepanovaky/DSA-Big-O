@@ -1,0 +1,26 @@
+1.1 O(1)
+1.2 O(n)
+
+2.1 O(1) It only performs the one function, dividing the value by 2. There is no reason
+to believe that the value is an array. 
+
+3.1 O(n^2) There are two for loops, one is nested inside the other one. That 
+means the operation is raised to a power of 2. 
+
+4.1 O(n) There is one for loop that goes through the array sequentially, therefore
+it is dependent on the array's size. 
+
+5.1 O(n) There is one for loop.
+
+6.1 O(n^2) There are two for loops, one is nested in the first. 
+
+7.2 O(n) there is one for loop. 
+
+8.1 O(log n) Because it halves (takes the average) of the provided index
+
+9.1 O(1) It is performing just the one operation, and not interating through the
+array. 
+
+10.1 O(n) there is only one for loop
+
+11.1
